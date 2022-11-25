@@ -115,7 +115,6 @@ aws dynamodb query \
 ```
 
 - Pesquisa pelo index secundário baseado no título da música e no ano
-- - 
 
 ```
 aws dynamodb query \
